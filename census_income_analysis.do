@@ -1,9 +1,7 @@
 ******************************************************
 * Question 9 – Income Distribution in China (2005)
 * Do-file: census_income_analysis.do
-* Author: <Your Name>
-* Course: <Course Code>
-* Date:   <Submission Date>
+
 ******************************************************
 
 version 18.0
